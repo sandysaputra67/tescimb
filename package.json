@@ -1,0 +1,25 @@
+{
+  "name": "cimb",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "test": "jest"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.13.1",
+    "@nuxtjs/fontawesome": "^1.1.2",
+    "bootstrap": "^4.6.0",
+    "bootstrap-vue": "^2.21.2",
+    "core-js": "^3.9.1",
+    "feather-icons": "^4.29.0",
+    "nuxt": "^2.15.3",
+    "nuxt-material-design-icons": "^1.0.4"
+  },
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
